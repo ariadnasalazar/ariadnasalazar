@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ariadnasalazar
-- 👀 Estoy interesada en la ciberseguridad, en todo lo que sea hacking etico
-- 🌱 Estoy estudiando un tecnico superior en administracion de sistemas en red
+- 👀 Estoy interesada en la ciberseguridad, en todo lo que sea hacking etico.
+- 🌱 Estoy estudiando un master en ciberseguridad
+- A parte estoy todo el día metida en HTB, en la academia o haciendo CTFs
 - Y me estoy sacando algunas certificaiones importantes
 
 <!---
